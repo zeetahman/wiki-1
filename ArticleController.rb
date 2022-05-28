@@ -1,2 +1,3 @@
 class ArticleController
+    
 end
